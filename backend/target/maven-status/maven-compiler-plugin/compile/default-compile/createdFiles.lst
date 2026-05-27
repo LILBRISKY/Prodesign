@@ -1,0 +1,13 @@
+com/prodesign/repository/FloorplanRepository.class
+com/prodesign/controller/FloorplanController.class
+com/prodesign/model/AiRequest.class
+com/prodesign/service/AiSuggestService$Bounds.class
+com/prodesign/service/AiSpecService.class
+com/prodesign/config/CorsConfig.class
+com/prodesign/ProdesignApplication.class
+com/prodesign/model/RoomData.class
+com/prodesign/controller/AiController.class
+com/prodesign/model/AiResponse.class
+com/prodesign/service/FloorplanService.class
+com/prodesign/service/AiSuggestService.class
+com/prodesign/model/Floorplan.class

@@ -1,0 +1,12 @@
+/tmp/cc-agent/67168360/project/backend/src/main/java/com/prodesign/service/FloorplanService.java
+/tmp/cc-agent/67168360/project/backend/src/main/java/com/prodesign/model/RoomData.java
+/tmp/cc-agent/67168360/project/backend/src/main/java/com/prodesign/controller/FloorplanController.java
+/tmp/cc-agent/67168360/project/backend/src/main/java/com/prodesign/service/AiSpecService.java
+/tmp/cc-agent/67168360/project/backend/src/main/java/com/prodesign/model/Floorplan.java
+/tmp/cc-agent/67168360/project/backend/src/main/java/com/prodesign/service/AiSuggestService.java
+/tmp/cc-agent/67168360/project/backend/src/main/java/com/prodesign/ProdesignApplication.java
+/tmp/cc-agent/67168360/project/backend/src/main/java/com/prodesign/repository/FloorplanRepository.java
+/tmp/cc-agent/67168360/project/backend/src/main/java/com/prodesign/model/AiRequest.java
+/tmp/cc-agent/67168360/project/backend/src/main/java/com/prodesign/config/CorsConfig.java
+/tmp/cc-agent/67168360/project/backend/src/main/java/com/prodesign/model/AiResponse.java
+/tmp/cc-agent/67168360/project/backend/src/main/java/com/prodesign/controller/AiController.java
